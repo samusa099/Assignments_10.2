@@ -1,54 +1,49 @@
 <div align="center">
 
-# 🍔 Burger House — PSD to HTML Landing Page
+# Burger House — PSD to HTML Landing Page
 
 ### A pixel-focused restaurant landing page developed from a PSD design using HTML5, CSS3, Bootstrap 5, Google Fonts, and Font Awesome.
 
-[![Project Status](https://img.shields.io/badge/status-completed-success?style=for-the-badge)](https://github.com/samusa099/Assignments_10.2)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![Project Status](https://img.shields.io/badge/status-completed-success?style=for-the-badge)
+![Project Type](https://img.shields.io/badge/type-learning_project-2F80ED?style=for-the-badge)
+[![Author](https://img.shields.io/badge/author-Musa-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
 
-[![Top Language](https://img.shields.io/github/languages/top/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2)
-[![Repository Size](https://img.shields.io/github/repo-size/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2)
-[![Last Commit](https://img.shields.io/github/last-commit/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/commits/main)
-[![Stars](https://img.shields.io/github/stars/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/stargazers)
-[![Forks](https://img.shields.io/github/forks/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/forks)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)](https://fonts.google.com/)
+
+[![Top Language](https://img.shields.io/github/languages/top/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2) [![Repository Size](https://img.shields.io/github/repo-size/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2) [![Last Commit](https://img.shields.io/github/last-commit/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/commits/main) [![Stars](https://img.shields.io/github/stars/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/stargazers) [![Forks](https://img.shields.io/github/forks/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/forks) [![Open Issues](https://img.shields.io/github/issues/samusa099/Assignments_10.2?style=flat-square)](https://github.com/samusa099/Assignments_10.2/issues)
 
 </div>
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-**Burger House** is a front-end assignment that transforms a restaurant-themed PSD layout into a structured web page. The project demonstrates practical implementation of visual hierarchy, reusable sections, typography, image-based layouts, navigation, product cards, promotional content, and a reservation form.
+A pixel-focused restaurant landing page developed from a PSD design using HTML5, CSS3, Bootstrap 5, Google Fonts, and Font Awesome.
 
-The page is built as a static website and can be opened directly in any modern browser without a build process.
+The repository is organised as a self-contained project that can be downloaded, reviewed, and run locally with minimal setup.
 
 ---
 
 ## 🖼️ Project Preview
 
 <div align="center">
-  <img src="images/G1.png" alt="Burger House hero section preview" width="100%">
+  <img src="images/G1.png" alt="Burger House project preview" width="100%">
 </div>
-
-> The repository contains the complete image assets used throughout the original design.
 
 ---
 
 ## ✨ Key Features
 
-- 🍔 Restaurant-themed hero banner
-- 🛵 Express-delivery contact information
-- 🧭 Navigation menu with section links
-- 🖼️ Promotional burger category layouts
-- 🍽️ Product and menu cards
-- 📅 Upcoming-events showcase
-- 📝 Table-reservation form
-- 📍 Address and contact section
-- 🌐 Social-media icons
-- 🎨 Custom typography and visual styling
+- ✅ Restaurant-themed hero banner
+- ✅ Delivery contact and section navigation
+- ✅ Promotional burger category layouts
+- ✅ Menu cards and call-to-action buttons
+- ✅ Upcoming-events showcase
+- ✅ Table-reservation interface and footer
 
 ---
 
@@ -56,11 +51,11 @@ The page is built as a static website and can be opened directly in any modern b
 
 | Technology | Purpose |
 |---|---|
-| **HTML5** | Semantic page structure and content |
-| **CSS3** | Custom layout, spacing, typography, and visual styling |
-| **Bootstrap 5** | Grid and layout utilities |
-| **Google Fonts** | Alfa Slab One, Bebas Neue, and Montserrat |
-| **Font Awesome 4** | Social-media icons |
+| **HTML5** | Page structure and semantic content |
+| **CSS3** | Layout, typography, responsiveness, and visual styling |
+| **Bootstrap 5** | Responsive grid, utilities, and UI components |
+| **Font Awesome** | Interface and social icons |
+| **Google Fonts** | Project typography |
 
 ---
 
@@ -68,78 +63,39 @@ The page is built as a static website and can be opened directly in any modern b
 
 ```text
 Assignments_10.2/
-├── index.html          # Main website page
+├── index.html
 ├── css/
-│   └── style.css       # Project styling
-├── images/             # Logos, banners, burgers, and UI assets
-└── README.md           # Project documentation
+└── images/
 ```
 
 ---
 
-## 🚀 Run the Project Locally
-
-### Option 1 — Open Directly
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click `index.html`.
-
-### Option 2 — Clone with Git
+## 🚀 Run Locally
 
 ```bash
 git clone https://github.com/samusa099/Assignments_10.2.git
 cd Assignments_10.2
 ```
 
-Then open `index.html` in a browser.
-
-### Option 3 — Use VS Code Live Server
-
-1. Open the repository in Visual Studio Code.
-2. Install the **Live Server** extension.
-3. Right-click `index.html`.
-4. Select **Open with Live Server**.
+Open `index.html` directly in a modern browser, or use the **Live Server** extension in Visual Studio Code for automatic refresh.
 
 ---
 
-## 📚 Learning Outcomes
+## 🎯 Learning Focus
 
-This assignment demonstrates:
-
-- Converting a visual design into a functional HTML layout
-- Structuring a multi-section landing page
-- Applying custom fonts and image assets
-- Combining custom CSS with Bootstrap utilities
-- Positioning content over promotional images
-- Designing reusable cards and call-to-action sections
-- Building a basic reservation interface
+This repository demonstrates practical front-end implementation, reusable section design, asset organisation, responsive layout techniques, and browser-based project delivery without a complex build pipeline.
 
 ---
 
-## 🔎 Main Page Sections
+## ⚠️ Project Notes
 
-| Section | Description |
-|---|---|
-| **Header** | Logo, delivery contact, and navigation |
-| **Hero Banner** | Main Burger Week promotional message |
-| **Categories** | Featured burger promotions |
-| **Menu Gallery** | Burger cards with action buttons |
-| **Events** | Upcoming-events presentation |
-| **Reservation** | Name, email, date, time, and guest inputs |
-| **Footer** | Brand summary, location, email, and social links |
+The reservation form and order buttons are front-end demonstrations and are not connected to a database or payment system.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions and constructive suggestions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your improvements.
-4. Push the branch to your fork.
-5. Open a pull request.
+Constructive improvements are welcome. Fork the repository, create a focused branch, commit your changes, and open a pull request with a clear description.
 
 ---
 
@@ -149,7 +105,7 @@ Contributions and constructive suggestions are welcome.
 
 ### Musa
 
-[![GitHub](https://img.shields.io/badge/GitHub-samusa099-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-samusa099-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
 
 </div>
 
@@ -157,8 +113,8 @@ Contributions and constructive suggestions are welcome.
 
 <div align="center">
 
-**Built for front-end design practice and PSD-to-HTML implementation.**
+**Built for structured practice, portfolio development, and continuous learning.**
 
-⭐ Star the repository if you find the project useful.
+⭐ Star the repository if the project is useful.
 
 </div>
