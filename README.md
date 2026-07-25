@@ -105,6 +105,11 @@ Constructive improvements are welcome. Fork the repository, create a focused bra
 
 ### Musa
 
+<p>
+  <strong>Internationally certified HR professional and data analytics practitioner from Bangladesh.</strong><br>
+  Musa combines people operations, Excel, Power BI, SQL, and technology-driven problem-solving to build practical, structured, and user-focused projects.
+</p>
+
 [![GitHub Profile](https://img.shields.io/badge/GitHub-samusa099-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
 
 </div>
